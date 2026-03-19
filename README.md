@@ -119,3 +119,39 @@ devstack/
 |       |-- services/
 |       `-- utils/
 `-- README.md
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+git clone https://github.com/Piyush-hacker/DevStack-AI-Debugging-Assistant.git  
+cd DevStack-AI-Debugging-Assistant
+
+### 2. Install dependencies
+
+Frontend:
+cd frontend  
+npm install  
+
+Backend:
+cd backend  
+npm install  
+
+### 3. Setup environment variables
+
+Create `.env` files using `.env.example` in both frontend and backend folders.
+
+### 4. Run the project
+
+Start backend:
+cd backend  
+npm run dev  
+
+Start frontend (in another terminal):
+cd frontend  
+npm run dev  
+
+Frontend: http://localhost:5173  
+Backend: http://localhost:5000
