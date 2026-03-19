@@ -112,26 +112,26 @@ This enables developers to debug faster and learn more effectively.
 
 ```text
 devstack/
-|-- frontend/
-|   |-- .env.example
-|   |-- package.json
-|   |-- src/
-|   |   |-- components/
-|   |   |-- lib/
-|   |   `-- pages/
-|   `-- vite.config.js
-|-- backend/
-|   |-- .env.example
-|   |-- package.json
-|   `-- src/
-|       |-- config/
-|       |-- controllers/
-|       |-- middleware/
-|       |-- models/
-|       |-- routes/
-|       |-- services/
-|       `-- utils/
-`-- README.md
+  frontend/
+    .env.example
+    package.json
+    src/
+      components/
+      lib/
+      pages/
+    vite.config.js
+  backend/
+    .env.example
+    package.json
+    src/
+      config/
+      controllers/
+      middleware/
+      models/
+      routes/
+      services/
+      utils/
+  README.md
 ```
 
 ---
