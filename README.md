@@ -41,6 +41,19 @@ DevStack solves this by providing **instant, structured debugging insights** in 
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](screenshots/home-page.png)
+
+### 🔍 Debug Result
+![Result](screenshots/debug-result.png)
+
+### 🕘 History Page
+![History](screenshots/history-page.png)
+
+---
+
 ## 🧱 Tech Stack
 
 **Frontend**
