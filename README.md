@@ -126,14 +126,14 @@ devstack/
 
 ### 1. Clone the repository
 
-git clone https://github.com/Piyush-hacker/DevStack-AI-Debugging-Assistant.git  
+git clone https://github.com/Piyush-hacker/DevStack-AI-Debugging-Assistant.git
 cd DevStack-AI-Debugging-Assistant
 
 ### 2. Install dependencies
 
 Frontend:
-cd frontend  
-npm install  
+cd frontend
+npm install 
 
 Backend:
 cd backend  
