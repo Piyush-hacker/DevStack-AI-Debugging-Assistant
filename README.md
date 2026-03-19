@@ -1,5 +1,9 @@
 # 🚀 DevStack – AI-Powered Debugging Assistant
 
+```md
+> Debug smarter with structured AI-powered error analysis.
+```
+
 DevStack is an open-source, AI-powered debugging assistant designed to help developers quickly understand, fix, and improve their code. By combining structured analysis with AI-driven insights, DevStack reduces debugging time and makes problem-solving more accessible for developers of all skill levels.
 
 ---
@@ -148,19 +152,23 @@ devstack/
 
 ### 1. Clone the repository
 
+```bash
 git clone https://github.com/Piyush-hacker/DevStack-AI-Debugging-Assistant.git
 cd DevStack-AI-Debugging-Assistant
+```
 
 ### 2. Install dependencies
 
 Frontend:
+```bash
 cd frontend
 npm install 
-
+```
 Backend:
+```bash
 cd backend  
 npm install  
-
+```
 ### 3. Setup environment variables
 
 Create `.env` files using `.env.example` in both frontend and backend folders.
@@ -168,12 +176,14 @@ Create `.env` files using `.env.example` in both frontend and backend folders.
 ### 4. Run the project
 
 Start backend:
+```bash
 cd backend  
 npm run dev  
-
+```
 Start frontend (in another terminal):
+```bash
 cd frontend  
 npm run dev  
-
+```
 Frontend: http://localhost:5173  
 Backend: http://localhost:5000
