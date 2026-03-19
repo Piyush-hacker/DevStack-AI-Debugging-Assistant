@@ -3,6 +3,9 @@
 ```md
 > Debug smarter with structured AI-powered error analysis.
 ```
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Status](https://img.shields.io/badge/status-active-success)
+![Built with](https://img.shields.io/badge/built%20with-React%20%7C%20Node.js-blue)
 
 DevStack is an open-source, AI-powered debugging assistant designed to help developers quickly understand, fix, and improve their code. By combining structured analysis with AI-driven insights, DevStack reduces debugging time and makes problem-solving more accessible for developers of all skill levels.
 
