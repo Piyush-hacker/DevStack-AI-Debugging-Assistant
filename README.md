@@ -4,6 +4,14 @@ DevStack is an open-source, AI-powered debugging assistant designed to help deve
 
 ---
 
+## 🎥 Demo
+
+![DevStack Demo](screenshots/demo.gif)
+
+> Quick demo showing how DevStack analyzes code errors and provides structured debugging insights.
+
+---
+
 ## 🌍 Open Source Vision
 
 DevStack is built with the goal of making debugging:
